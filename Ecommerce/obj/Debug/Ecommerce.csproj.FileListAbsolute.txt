@@ -1,0 +1,7 @@
+C:\Users\rgouthaman\source\repos\Ecommerce\Ecommerce\bin\Debug\Ecommerce.exe.config
+C:\Users\rgouthaman\source\repos\Ecommerce\Ecommerce\bin\Debug\Ecommerce.exe
+C:\Users\rgouthaman\source\repos\Ecommerce\Ecommerce\bin\Debug\Ecommerce.pdb
+C:\Users\rgouthaman\source\repos\Ecommerce\Ecommerce\obj\Debug\Ecommerce.csprojResolveAssemblyReference.cache
+C:\Users\rgouthaman\source\repos\Ecommerce\Ecommerce\obj\Debug\Ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\rgouthaman\source\repos\Ecommerce\Ecommerce\obj\Debug\Ecommerce.exe
+C:\Users\rgouthaman\source\repos\Ecommerce\Ecommerce\obj\Debug\Ecommerce.pdb
